@@ -4,7 +4,8 @@
 
 A compassionate, AI-powered chatbot designed to provide a safe and supportive space for users to explore their feelings. This tool offers empathetic conversation, mood analysis, and personalized self-care recommendations.
 
-<img width="1920" height="933" alt="image" src="https://github.com/user-attachments/assets/fe54884d-e614-4d25-9093-424d336b6a47" />
+<img width="1875" height="930" alt="image" src="https://github.com/user-attachments/assets/d158694b-3e19-4986-b223-1d0c10c29673" />
+
 
 
 
