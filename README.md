@@ -4,6 +4,10 @@
 
 A compassionate, AI-powered chatbot designed to provide a safe and supportive space for users to explore their feelings. This tool offers empathetic conversation, mood analysis, and personalized self-care recommendations.
 
+<img width="1920" height="933" alt="image" src="https://github.com/user-attachments/assets/fe54884d-e614-4d25-9093-424d336b6a47" />
+
+
+
 🌟 About The Project
 
 In today's fast-paced world, taking a moment for mental well-being is more important than ever. This Mental Health Support Bot was created to be a first step and a daily companion for anyone needing to talk. It listens without judgment, helps users understand their emotional state, and suggests actionable self-care activities tailored to their preferences.
