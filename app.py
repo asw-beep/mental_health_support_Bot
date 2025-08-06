@@ -277,10 +277,11 @@ def create_interface():
                 """)
                 
                 gr.Markdown("""
-                ### Crisis Resources
                 *If you need immediate help:*
-                - 🇺🇸 Suicide & Crisis Lifeline: *988*
-                - 🇺🇸 Crisis Text Line: Text *HOME* to *741741*
+                - 🇮🇳 National Mental Health Helpline: *1800-599-0019* (24/7 Toll-Free)
+                - 🇮🇳 AASRA Suicide Prevention: *(+91) 9820466726*
+                - 🇮🇳 Emergency Services: *112*
+                - 🇮🇳 iCall Helpline: *+91 22-25521111* (Mon-Sat, 8 AM-10 PM)
                 - 🌍 International: Contact your local emergency services
                 """)
         
